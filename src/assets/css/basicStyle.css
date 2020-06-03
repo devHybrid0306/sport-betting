@@ -1,0 +1,13 @@
+body {
+  background-color: #083040;
+  color: #F2F2F2;
+  font-family: lato, sans-serif;
+  background-image: url(../../assets/img/background-opacity.png);
+  background-repeat: no-repeat;
+  margin: 0 0.5rem;
+}
+@media (min-width: 768px) {
+  body {
+    margin: 0 3rem;
+  }
+}
