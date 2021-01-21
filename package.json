@@ -14,7 +14,7 @@
   "dependencies": {
     "@material-ui/core": "4.9.10",
     "@material-ui/icons": "4.9.1",
-    "immer": "6.0.3",
+    "immer": "8.0.1",
     "node-sass": "4.13.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
